@@ -1,0 +1,25 @@
+.paragrafos{
+   color: rgb(32, 97, 97);
+    font-style: inherit;
+    /*background-color: rgb(211, 211, 211);*/
+    background: url(imagem/texture.jpg) repeat ;
+    border: 1px;
+    border-style: solid;
+}
+.forma {
+    background: rgba(0, 0, 0, 0.192);
+    border: 1px;
+    margin-top: 5px;
+    border-style: solid;
+    border-radius: 15px;
+}
+
+.tabela1{
+    border-bottom-left-radius: 2px;
+    
+}
+.tbl_cabeca{
+    background-color: rgb(61, 121, 121);
+    margin-left: 10px;
+
+}
